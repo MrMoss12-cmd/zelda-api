@@ -1,0 +1,575 @@
+[
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c8"
+    ],
+    "dungeons": [],
+    "name": "Bilocyte",
+    "description": "Bilocyte is a Boss in Skyward Sword. It is a large parasite that infiltrates and possesses Levias, who lives inside the giant Thunderhead near Skyloft. ",
+    "id": "5f6e93a7cbf4202fbde224fd"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ba",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c0"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1a2"
+    ],
+    "name": "Amy",
+    "description": "Amy is a recurring Sub-Boss in The Legend of Zelda series. She is the youngest of the four Poe Sisters. ",
+    "id": "5f6e93a7cbf4202fbde224fc"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2d2"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c0d8"
+    ],
+    "name": "Agwanda",
+    "description": "Agwanda is the fifth Boss in Zelda's Adventure. She is the Shrine Keeper of the Shrine of Water. ",
+    "id": "5f6e93a7cbf4202fbde224fe"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c0"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1cf"
+    ],
+    "name": "Agunima",
+    "description": "Agunima is a Boss in Oracle of Seasons. It is a mysterious wizard that appears as a the middle boss in the Dancing Dragon Dungeon. ",
+    "id": "5f6e93a7cbf4202fbde224ff"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be"
+    ],
+    "dungeons": [],
+    "name": "Agitha",
+    "description": "Agitha is a recurring character in The Legend of Zelda series. ",
+    "id": "5f6e93a7cbf4202fbde22500"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c09f"
+    ],
+    "name": "Big Octorok",
+    "description": "The Big Octorok is the Boss of the Temple of Droplets in The Minish Cap. It is the guardian of the Water Element. ",
+    "id": "5f6e93a7cbf4202fbde22504"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b8",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c3"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c188"
+    ],
+    "name": "Agahnim",
+    "description": "Agahnim  is the dark wizard who serves as the secondary antagonist of A Link to the Past. He kidnaps the Seven Maidens to break the seal to the corrupted Sacred Realm and achieve his goal. While many believe him to be a pawn of Ganon, he is revealed to be the demon's alter-ego. ",
+    "id": "5f6e93a7cbf4202fbde22502"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c2"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c09d"
+    ],
+    "name": "Blaaz",
+    "description": "Blaaz is the Boss of the Temple of Fire in Phantom Hourglass. ",
+    "id": "5f6e93a7cbf4202fbde22503"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c7"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c182"
+    ],
+    "name": "Big Pengator",
+    "description": "Big Pengator is a Sub-Boss in A Link Between Worlds. ",
+    "id": "5f6e93a7cbf4202fbde22501"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ba",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf"
+    ],
+    "dungeons": [],
+    "name": "Big Octo",
+    "description": "Big Octos, also known as Bigoctos, are recurring Bosses and enemies in The Legend of Zelda series. ",
+    "id": "5f6e93a7cbf4202fbde22505"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c8"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c154"
+    ],
+    "name": "Moldarach",
+    "description": "Moldarach is a Boss in Skyward Sword. An Aracha that has reached the age of one thousand years, two of them appear throughout the game; one as the main boss of the Lanayru Mining Facility and another later encountered at the Lanayru Shipyard in the Lanayru Sand Sea as a mini-boss. ",
+    "id": "5f6e93a7cbf4202fbde22509"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c3"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c12d"
+    ],
+    "name": "Moblin Chief",
+    "description": "The Moblin Chief is a Sub-Boss in Link's Awakening. He is a large red Moblin that appears as the chief of the Moblins. ",
+    "id": "5f6e93a7cbf4202fbde2250a"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ce"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1d9",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1de",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c188",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1b9",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c0cf",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1c2"
+    ],
+    "name": "Aeralfos",
+    "description": "Aeralfos are recurring enemies and bosses in The Legend of Zelda series. They are winged reptilian enemies armed with swords and shields. ",
+    "id": "5f6e93a7cbf4202fbde2250c"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ba",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c0"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1a2"
+    ],
+    "name": "Meg",
+    "description": "Meg, also known as Margaret, is a recurring Sub-Boss in The Legend of Zelda series. She is the eldest of the four Poe Sisters. ",
+    "id": "5f6e93a7cbf4202fbde2250f"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c1"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c104"
+    ],
+    "name": "Big Moldorm",
+    "description": "Big Moldorm is a Boss in Four Swords Adventures. ",
+    "id": "5f6e93a7cbf4202fbde22506"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2d5"
+    ],
+    "dungeons": [],
+    "name": "Glutko",
+    "description": "Glutko  is a location in The Faces of Evil. It is unlocked after completing Militron. ",
+    "id": "5f6e93a7cbf4202fbde22514"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bd"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c108",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c10d"
+    ],
+    "name": "Mazura",
+    "description": "Mazura, also known as Horsehead, is the first Boss in The Adventure of Link. It is encountered in the penultimate chamber of the Parapa Palace, protecting the temple's statue. Upon his defeat, like all bosses in the game, a key drops from above that allows Link to pass through into the final room that contains the Stone Statue to set the Crystal into. ",
+    "id": "5f6e93a7cbf4202fbde22511"
+  },
+  {
+    "appearances": [],
+    "dungeons": [],
+    "name": "Big Liar",
+    "description": "Big Liar is the second boss in Ripened Tingle's Balloon Trip of Love. He is the god of the Usotami and resides dormant in a cave at the end of the Usotami Village. Tingle must need an offering first in order to enter his lair, where Kakashi is being held captive. He is encountered on Page 11. ",
+    "id": "5f6e93a7cbf4202fbde22508"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ba",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c1"
+    ],
+    "dungeons": [],
+    "name": "Big Poe",
+    "description": "Big Poes are recurring Enemies in The Legend of Zelda series. They are a larger, stronger variant of Poes. Like Poes, they carry Poe Souls within the lanterns that they carry. ",
+    "id": "5f6e93a7cbf4202fbde2250b"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c4"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c099"
+    ],
+    "name": "Big Manhandla",
+    "description": "Big Manhandla is the boss of the Sea of Trees in Four Swords. ",
+    "id": "5f6e93a7cbf4202fbde22507"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b9"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1d6"
+    ],
+    "name": "Smog",
+    "description": "Smog is the Boss of the Crown Dungeon in Oracle of Ages. ",
+    "id": "5f6e93a7cbf4202fbde22519"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be"
+    ],
+    "dungeons": [],
+    "name": "Midna",
+    "description": "Midna is a recurring character in The Legend of Zelda series. She is a resident of the Twilight Realm and a descendant of the ancient Twili people. At first, she seems to be a strange, dark creature with an agenda of her own and little regard for Link, but she ends up changing her attitude towards those who are willing to help her. ",
+    "id": "5f6e93a7cbf4202fbde2250d"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ba",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c1"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1a2",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1ab",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c188",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c0ba"
+    ],
+    "name": "Phantom Ganon",
+    "description": "Phantom Ganon is a recurring Boss in The Legend of Zelda series. ",
+    "id": "5f6e93a7cbf4202fbde22516"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c0"
+    ],
+    "dungeons": [],
+    "name": "Medusa Head",
+    "description": "Medusa Head is the boss of the eighth dungeon in Oracle of Seasons, the Sword &amp; Shield Maze. ",
+    "id": "5f6e93a7cbf4202fbde22510"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c188"
+    ],
+    "name": "Mighty Darknut",
+    "description": "Mighty Darknuts are mini-bosses and enemies in The Wind Waker. ",
+    "id": "5f6e93a7cbf4202fbde2250e"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c7"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1c0"
+    ],
+    "name": "Zaganaga",
+    "description": "Zaganaga is the Boss of the Desert Palace in A Link Between Worlds. It appears as a monstrous, plant-like creature with a spiny, cactaceous body. ",
+    "id": "5f6e93a7cbf4202fbde2251e"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b8",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c0",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c5"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c0d1",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c10c",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1a7",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1a2"
+    ],
+    "name": "Mothula",
+    "description": "Mothula is a recurring Enemy in The Legend of Zelda series. It made its first appearance in A Link to the Past as the Boss of the Skull Woods. It would later take on a smaller role as a mini-boss, and afterwards as a common enemy. ",
+    "id": "5f6e93a7cbf4202fbde22512"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b7",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c4",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c1",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c2",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c8"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1b5"
+    ],
+    "name": "Moldorm",
+    "description": "Moldorms are recurring Enemies in The Legend of Zelda series. ",
+    "id": "5f6e93a7cbf4202fbde22515"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b7",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bd",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b8",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ba",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c0",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b9",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c4",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c1",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c2",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c5",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c8",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c7",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "dungeons": [],
+    "name": "Princess Zelda",
+    "description": "Zelda, traditionally Princess Zelda, is the eponymous character of The Legend of Zelda series. With the exception of Link's Awakening, Majora's Mask, and Tri Force Heroes, an incarnation of Zelda or one of her alter egos has always been one of the central characters in the series. ",
+    "id": "5f6e93a7cbf4202fbde22523"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c157"
+    ],
+    "name": "Morpheel",
+    "description": "Morpheel is the Boss of the Lakebed Temple in Twilight Princess. ",
+    "id": "5f6e93a7cbf4202fbde22513"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c3"
+    ],
+    "dungeons": [],
+    "name": "Slime Eel",
+    "description": "Slime Eel is the Boss of the Catfish's Maw in Link's Awakening. It is a giant eel-like monster that opposes Link in an attempt to prevent him from waking the Wind Fish. ",
+    "id": "5f6e93a7cbf4202fbde2251b"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c10e"
+    ],
+    "name": "Zant",
+    "description": "Zant  is one of two main antagonists in Twilight Princess. He is the self-proclaimed King of Twilight, although Midna claims he is the King of Shadows. He is a member of the Twili who usurps the throne of the Twilight Realm from Midna before the events of Twilight Princess. He regularly appears wearing a helmet that conceals his face, but removes it before his battle with Link. He is a powerful sorcerer and minion of Ganondorf. ",
+    "id": "5f6e93a7cbf4202fbde22520"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c3"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c0bb",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c13c"
+    ],
+    "name": "Spike Roller",
+    "description": "Spike Roller is the Sub-Boss of Tail Cave in Link's Awakening. ",
+    "id": "5f6e93a7cbf4202fbde22518"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c3"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c15d"
+    ],
+    "name": "Slime Eye",
+    "description": "Slime Eye is a boss in Link's Awakening. ",
+    "id": "5f6e93a7cbf4202fbde2251a"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2d2"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c0d9"
+    ],
+    "name": "Warbane",
+    "description": "Warbane is the seventh boss in Zelda's Adventure. He is the Shrine Keeper of the Shrine of Fire, and is the last of the Shrine Keepers Zelda must face before facing Ganon. ",
+    "id": "5f6e93a7cbf4202fbde22528"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c10e"
+    ],
+    "name": "Phantom Zant",
+    "description": "Phantom Zant is the mini-boss of the Palace of Twilight in Twilight Princess. ",
+    "id": "5f6e93a7cbf4202fbde22517"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b8",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c3",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c7"
+    ],
+    "dungeons": [],
+    "name": "Turtle Rock",
+    "description": "Turtle Rock is a recurring dungeon in The Legend of Zelda series. ",
+    "id": "5f6e93a7cbf4202fbde2252d"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b8"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c13c"
+    ],
+    "name": "Trinexx",
+    "description": "Trinexx is a recurring Boss in The Legend of Zelda series. It is the Boss of Turtle Rock in A Link to the Past and the last dungeon in Ancient Stone Tablets. Its name may be derived from the prefix \"tri-\" meaning three, and the word \"necks,\" alluding to its three heads. Its first form is a stone turtle with two additional heads protruding from its shell on either side. These extra heads are elemental; the red one spouts flame and the blue one breathes frost. ",
+    "id": "5f6e93a7cbf4202fbde2251d"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1ba",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c188"
+    ],
+    "name": "Waterblight Ganon",
+    "description": "Waterblight Ganon is a Boss in Breath of the Wild. It is one of the four phantoms of Calamity Ganon that took control of the Divine Beasts. It is found either inside the Divine Beast Vah Ruta or in the center of Hyrule Castle if it is not already defeated. Waterblight Ganon is responsible for the demise of Mipha. ",
+    "id": "5f6e93a7cbf4202fbde22525"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c166"
+    ],
+    "name": "Twilit Bloat",
+    "description": "The Twilit Bloat is a mini-boss in Twilight Princess. It is a giant Shadow Insect with tentacles emerging from its abdomen. ",
+    "id": "5f6e93a7cbf4202fbde2251c"
+  },
+  {
+    "appearances": [],
+    "dungeons": [],
+    "name": "Wizzroboe",
+    "description": "Wizzroboe is a boss in Cadence of Hyrule. ",
+    "id": "5f6e93a7cbf4202fbde22522"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2cd"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c17c"
+    ],
+    "name": "Ultra Death Bug",
+    "description": "Ultra Death Bug is the boss of the Insect Cavern in Freshly-Picked Tingle's Rosy Rupeeland. ",
+    "id": "5f6e93a7cbf4202fbde22532"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c7"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1b1",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c188"
+    ],
+    "name": "Yuga",
+    "description": "Yuga is an evil sorcerer and one of the two primary antagonists of A Link Between Worlds. At the beginning of the game, Yuga hunts the descendants of the Seven Sages from Ocarina of Time/A Link to the Past, as well as Princess Zelda, in an attempt to resurrect Ganon and use his power to rule the worlds of Hyrule and Lorule, and ultimately take his place among the gods. ",
+    "id": "5f6e93a7cbf4202fbde22521"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b9"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c08b"
+    ],
+    "name": "Veran",
+    "description": "Veran is the primary antagonist of Oracle of Ages. She has the ability to possess anybody she wishes. Although she appears to be the ultimate evil, Veran is actually a loyal servant to Twinrova, dedicated to bringing about the Dark Lord Ganon's revival by bringing sorrow to the hearts of everyone in Labrynna. Her true form is that of an Evil Fairy, summoned from the Dark Realm. ",
+    "id": "5f6e93a7cbf4202fbde2252a"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6"
+    ],
+    "dungeons": [],
+    "name": "Vaati Transfigured",
+    "description": "Vaati Transfigured is a Boss in The Minish Cap. ",
+    "id": "5f6e93a7cbf4202fbde2252f"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c192"
+    ],
+    "name": "Wart",
+    "description": "Wart is a Mini-Boss in the Great Bay Temple and the Secret Shrine in Majora's Mask. ",
+    "id": "5f6e93a7cbf4202fbde22527"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c1bf",
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c188"
+    ],
+    "name": "Windblight Ganon",
+    "description": "Windblight Ganon is a Boss in Breath of the Wild. It is one of the four phantoms of Calamity Ganon that took control of the Divine Beasts. It is found either atop the Divine Beast Vah Medoh or in the center of Hyrule Castle if it is not already defeated. Windblight Ganon is responsible for the demise of Revali. ",
+    "id": "5f6e93a7cbf4202fbde22526"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c0c7"
+    ],
+    "name": "Twinmold",
+    "description": "Twinmold is the Boss of Stone Tower Temple in Majora's Mask. The colossal monster is responsible for all of the curses placed on Ikana Canyon, and is keeping the last of the Four Giants captive. Twinmold's body is protected by an exoskeleton that leaves only its head and tail exposed. ",
+    "id": "5f6e93a7cbf4202fbde22537"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c7"
+    ],
+    "dungeons": [],
+    "name": "Yuga Ganon",
+    "description": "Yuga Ganon is the joint form of Yuga and Ganon that serves as the primary antagonist and final Boss of A Link Between Worlds. The beast results from Yuga fusing with Ganon after the former resurrects the latter, and takes on the combined appearances and abilities of the two. ",
+    "id": "5f6e93a7cbf4202fbde2251f"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b8"
+    ],
+    "dungeons": [
+      "https://zelda.fanapis.com/api/dungeons/5f6d158a3dd55d9ed2d1c13b"
+    ],
+    "name": "Vitreous",
+    "description": "Vitreous is the Boss of Misery Mire and captor of the sixth Maiden in A Link to the Past. It is a gigantic eyeball surrounded by smaller eyeballs, immersed in an acidic green liquid. ",
+    "id": "5f6e93a7cbf4202fbde2252b"
+  }
+]

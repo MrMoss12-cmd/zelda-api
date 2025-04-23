@@ -1,0 +1,503 @@
+[
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c5"
+    ],
+    "name": "Anjean",
+    "description": "Anjean  is a character in Spirit Tracks. She is a member of the Lokomo people and the protector of the Tower of Spirits, the central hub of the Spirit Tracks, whose goal is to prevent the evil Malladus from breaking free of his imprisonment. Anjean provides the Spirit Train, which Link and Princess Zelda use along their quest. Anjean was also a very close friend with Tetra after she met her shortly after the feisty pirate arrived to the land that would become the next Hyrule. As a result of their strong friendship, Anjean gave Tetra the sacred instrument known as the Spirit Flute, but only under the condition that she and her descendants would use it to protect the land. ",
+    "gender": "Female",
+    "race": "Lokomo",
+    "id": "5f6d186f246bd9a0809d6115"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c0",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b9"
+    ],
+    "name": "Animal Companion",
+    "description": "The Animal Companions are three characters in Oracle of Seasons and Oracle of Ages: Ricky, Moosh, and Dimitri. They become Link's Mounts when he needs their special abilities to traverse certain terrain. ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d6116"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Ancient Oven",
+    "description": "The Ancient Oven is a character in Breath of the Wild. ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d6117"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c3",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b9"
+    ],
+    "name": "Angler Fish",
+    "description": "The Angler Fish is a recurring Boss in The Legend of Zelda series. ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d6118"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c5"
+    ],
+    "name": "Carben",
+    "description": "Carben is a character from Spirit Tracks. He is a member of the Lokomo race and Guardian of the Ocean Realm who resides in the Ocean Sanctuary. Like the rest of the Lokomo people, Carben possesses a sacred instrument, his being the flute, which generates energy to power the Spirit Tracks when played with another sacred instrument. Carben also has the ability to communicate with birds. ",
+    "gender": "Male",
+    "race": "Lokomo",
+    "id": "5f6d186f246bd9a0809d611a"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Anche",
+    "description": "Anche is a character in Breath of the Wild. ",
+    "gender": null,
+    "race": "Gerudo",
+    "id": "5f6d186f246bd9a0809d6119"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Cara",
+    "description": "Cara is a character in Breath of the Wild. ",
+    "gender": "Female",
+    "race": "Gerudo",
+    "id": "5f6d186f246bd9a0809d611b"
+  },
+  {
+    "appearances": [],
+    "name": "Captain Krin",
+    "description": "Captain Krin is a character featured in the The Legend of Zelda comics by Valiant Comics published by Valiant Comics. He is the soldier captain at the North Castle who will do anything to protect both the palace and the king. ",
+    "gender": null,
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d611d"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2cd"
+    ],
+    "name": "Captain Stalfos",
+    "description": "Captain Stalfos is a boss in Freshly-Picked Tingle's Rosy Rupeeland. He is the leader of the group of Pirates. In order for Tingle to join the pirate crew, he has to be dead. If he wants to survive, he must defeat the captain in a sword duel. If Tingle succeeds in this task, he will be given the Bone Ocarina, which may be used at any pier to call the pirate ship. ",
+    "gender": null,
+    "race": "Pirate",
+    "id": "5f6d186f246bd9a0809d611c"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc"
+    ],
+    "name": "Captain Keeta",
+    "description": "Captain Keeta, also known as Skull Keeta, is a mini-boss in Majora's Mask. ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d611e"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6"
+    ],
+    "name": "Caprice",
+    "description": "Caprice is a character in The Minish Cap. ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d611f"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Champion",
+    "description": "The Champions are a team of five chosen from the five races of Hyrule to battle against Calamity Ganon. Led by Princess Zelda with the Champion hero chosen by the sword that seals the darkness at her side, the other four Champions were tasked with piloting the Divine Beasts and providing back-up as Link and Zelda face the Calamity head-on in an attempted to seal it away. ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d6124"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Flaxel",
+    "description": "Flaxel is a character in Breath of the Wild. ",
+    "gender": "Female",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d6129"
+  },
+  {
+    "appearances": [],
+    "name": "Farore",
+    "description": "Farore is the name of two different people in the Zelda universe: ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d612e"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc"
+    ],
+    "name": "Grog",
+    "description": "Grog is a character in Majora's Mask. ",
+    "gender": "Male",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d6133"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Straia",
+    "description": "Straia is a character in Breath of the Wild. ",
+    "gender": null,
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d6138"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Malena",
+    "description": "Malena is a character in Breath of the Wild. ",
+    "gender": "Female",
+    "race": "Gerudo",
+    "id": "5f6d186f246bd9a0809d613d"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf"
+    ],
+    "name": "Makar",
+    "description": "Makar is a character in The Wind Waker. ",
+    "gender": "Male",
+    "race": "Korok",
+    "id": "5f6d186f246bd9a0809d6142"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bd"
+    ],
+    "name": "Magician",
+    "description": "The Magician is a character in The Adventure of Link. ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d6147"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c8"
+    ],
+    "name": "Mallara",
+    "description": "Mallara is a character in Skyward Sword. ",
+    "gender": "Female",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d614c"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2cd"
+    ],
+    "name": "Madame Scratchcard",
+    "description": "Madame Scratchcard is a character in Freshly-Picked Tingle's Rosy Rupeeland. ",
+    "gender": "Female",
+    "race": "Human",
+    "id": "5f6d186f246bd9a0809d6151"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b8",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c3"
+    ],
+    "name": "Mad Batter",
+    "description": "The Mad Batter is a recurring character in The Legend of Zelda series. He sleeps in altars found in underground caves, and Link may awaken him by sprinkling Magic Powder on these altars. The bat creature will then curse Link to punish him for having been released, but he inadvertently helps Link out by providing upgrades as his curse. ",
+    "gender": "Male",
+    "race": null,
+    "id": "5f6d186f246bd9a0809d6156"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6"
+    ],
+    "name": "Mack",
+    "description": "Mack is a character in The Minish Cap. ",
+    "gender": "Male",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d615b"
+  },
+  {
+    "appearances": [],
+    "name": "Roam",
+    "description": "Roam is a character featured in the A Link to the Past comic by Shotaro Ishinomori by Shotaro Ishinomori. Referred to in one of the chapters as \"The Mystery Knight,\" Roam is a descendant of a master archer from the ranks of the Knights of Hyrule. When Roam discovered that Agahnim was sending the Seven Maidens to  the Dark World, he sought after them  through the Portal near Death Mountain. Roam considers Link to be immature, stubborn and lacking discipline to wield the Master Sword, with Roam boasting that the Book of Mudora supports him instead as the hero who will save Hyrule. ",
+    "gender": "Male",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d6160"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b9"
+    ],
+    "name": "Lynna City Comedian",
+    "description": "The Lynna City Comedian is a character in Oracle of Ages.  ",
+    "gender": "Male",
+    "race": "Human",
+    "id": "5f6d186f246bd9a0809d6165"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6"
+    ],
+    "name": "Keeley",
+    "description": "Keeley is a character in The Minish Cap. ",
+    "gender": "Female",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d616a"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Katta",
+    "description": "Katta is a character in Breath of the Wild. ",
+    "gender": "Female",
+    "race": "Gerudo",
+    "id": "5f6d186f246bd9a0809d616f"
+  },
+  {
+    "appearances": [],
+    "name": "Kay Noh",
+    "description": "Kay Noh may refer to: ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d6174"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c2"
+    ],
+    "name": "Lucky Lee",
+    "description": "Lucky Lee is a character in Phantom Hourglass. ",
+    "gender": null,
+    "race": "Spirit",
+    "id": "5f6d186f246bd9a0809d6179"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c5"
+    ],
+    "name": "Lucia",
+    "description": "Lucia is a character in Spirit Tracks. ",
+    "gender": "Female",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d617e"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Loone",
+    "description": "Loone is a character in Breath of the Wild. ",
+    "gender": "Female",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d6183"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2d1"
+    ],
+    "name": "Linkle",
+    "description": "Linkle is a playable Warrior in Hyrule Warriors Legends. She can be transferred over to Hyrule Warriors as well. She wields dual Crossbows as her weapon and uses them alongside quick kicks to attack enemies. Her story is described as a side story separate from the rest of the game's plot. ",
+    "gender": "Female",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d6188"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Katah Chuki",
+    "description": "Katah Chuki is a character in Breath of the Wild. ",
+    "gender": null,
+    "race": "Sheikah",
+    "id": "5f6d186f246bd9a0809d618d"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b7",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf"
+    ],
+    "name": "Lion",
+    "description": "Lions are a recurring species in The Legend of Zelda series. ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d6192"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Ripp",
+    "description": "Ripp is a character in Breath of the Wild. ",
+    "gender": "Female",
+    "race": "Gerudo",
+    "id": "5f6d186f246bd9a0809d6197"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Rhondson",
+    "description": "Rhondson is a character in Breath of the Wild. ",
+    "gender": "Female",
+    "race": "Gerudo",
+    "id": "5f6d186f246bd9a0809d619c"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6"
+    ],
+    "name": "Rem",
+    "description": "Rem is a character in The Minish Cap. ",
+    "gender": "Male",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d61a1"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Ritaag Zumo",
+    "description": "Ritaag Zumo is a character in Breath of the Wild. ",
+    "gender": null,
+    "race": "Sheikah",
+    "id": "5f6d186f246bd9a0809d61a6"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be"
+    ],
+    "name": "Renado",
+    "description": "Renado is a character in Twilight Princess. ",
+    "gender": "Male",
+    "race": "Human",
+    "id": "5f6d186f246bd9a0809d61ab"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Kaneli",
+    "description": "Kaneli is a character in Breath of the Wild. ",
+    "gender": "Male",
+    "race": "Rito",
+    "id": "5f6d186f246bd9a0809d61b0"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf"
+    ],
+    "name": "Kamo",
+    "description": "Kamo is a character in The Wind Waker. ",
+    "gender": "Male",
+    "race": null,
+    "id": "5f6d186f246bd9a0809d61b5"
+  },
+  {
+    "appearances": [],
+    "name": "Kam Urog",
+    "description": "Kam Urog may refer to: ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d61ba"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Kah Mael",
+    "description": "Kah Mael is a character in Breath of the Wild. ",
+    "gender": null,
+    "race": "Sheikah",
+    "id": "5f6d186f246bd9a0809d61bf"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Kachoo",
+    "description": "Kachoo is a character in Breath of the Wild. ",
+    "gender": "Female",
+    "race": "Gerudo",
+    "id": "5f6d186f246bd9a0809d61c4"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c5"
+    ],
+    "name": "Linebeck III",
+    "description": "Linebeck III is a character in Spirit Tracks. He is the grandson of Linebeck and the owner of the Linebeck Trading Company, operating at a location called the Trading Post. He'll buy Link's collected treasure from him, and also trade treasure for train parts for Link with which to customize the Spirit Train. Additionally, should Link lose his Shield to a Like Like, Linebeck III will sell him a new one for one hundred Rupees. ",
+    "gender": "Male",
+    "race": "Hylian",
+    "id": "5f6d186f246bd9a0809d61c9"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6"
+    ],
+    "name": "Librari",
+    "description": "Librari is a character in The Minish Cap. ",
+    "gender": "Male",
+    "race": "Minish",
+    "id": "5f6d186f246bd9a0809d61ce"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b7",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c3",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ba",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c1",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c2",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c5"
+    ],
+    "name": "Letter",
+    "description": "Letters are recurring items and objects in The Legend of Zelda series. They are the most common means of long-distance communication between characters. ",
+    "gender": null,
+    "race": null,
+    "id": "5f6d186f246bd9a0809d61d3"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "name": "Leena",
+    "description": "Leena is a character in Breath of the Wild. ",
+    "gender": "Female",
+    "race": "Gerudo",
+    "id": "5f6d186f246bd9a0809d61d8"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c2"
+    ],
+    "name": "Leaf",
+    "description": "Leaf is a character in Phantom Hourglass. ",
+    "gender": "Male",
+    "race": "Fairy",
+    "id": "5f6d186f246bd9a0809d61dd"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c7"
+    ],
+    "name": "Ravio",
+    "description": "Ravio is a character in A Link Between Worlds. Originally a resident of the kingdom of Lorule, he spends a vast majority of the game posing as a simple shopkeeper in Hyrule, renting various items to his Hyrulean counterpart Link in order to help him advance in his quest. Ravio is frequently accompanied by his pet bird, Sheerow, who tends to mimic many of his gestures and emotions. ",
+    "gender": "Male",
+    "race": null,
+    "id": "5f6d186f246bd9a0809d61e2"
+  }
+]

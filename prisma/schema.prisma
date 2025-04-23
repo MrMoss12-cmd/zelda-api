@@ -1,0 +1,104 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../node_modules/.prisma/client"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Game {
+  id            String   @id @default(auto()) @map("_id") @db.ObjectId
+  name          String
+  description   String
+  developer     String
+  publisher     String
+  released_date String
+  image_url     String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@map("games")
+}
+
+model Staff {
+  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  name      String
+  worked_on String[] @db.ObjectId
+  image_url String?
+
+  @@map("staff")
+}
+
+model Character {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  name        String
+  description String
+  gender      String?
+  race        String?
+  appearances String[] @db.ObjectId
+  inhabitants String[] @db.ObjectId
+  image_url   String?
+
+  @@map("characters")
+}
+
+model Monster {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  name        String
+  description String
+  appearances String[] @db.ObjectId
+  image_url   String?
+
+  @@map("monsters")
+}
+
+model Boss {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  name        String
+  description String
+  appearances String[] @db.ObjectId
+  dungeons    String[] @db.ObjectId
+  image_url   String?
+
+  @@map("bosses")
+}
+
+model Dungeon {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  name        String
+  description String
+  appearances String[] @db.ObjectId
+  boss_ids    String[] @db.ObjectId
+  image_url   String?
+
+  @@map("dungeons")
+}
+
+model Place {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  name        String
+  description String
+  inhabitants String[] @db.ObjectId
+  appearances String[] @db.ObjectId
+  image_url   String?
+
+  @@map("places")
+}
+
+model Item {
+  id          String   @id @default(auto()) @map("_id") @db.ObjectId
+  name        String
+  description String
+  games_ids   String[] @db.ObjectId @map("games")
+  image_url   String?
+
+  @@map("items")
+}

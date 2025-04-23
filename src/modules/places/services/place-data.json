@@ -1,0 +1,488 @@
+[
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c0",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b9"
+    ],
+    "inhabitants": [],
+    "name": "Advance Shop",
+    "description": "The Advance Shop, also known as the 100 Rupee Advance Shop, is a recurring location in The Legend of Zelda series. It is a unique store as it can only be accessed when the game is played on a Game Boy Advance. ",
+    "id": "5f6e8c8e677b262b8b3fb4a8"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c5"
+    ],
+    "inhabitants": [
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d6795",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d644f",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d6214",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d638c",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d661e",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d62e3",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d61a2"
+    ],
+    "name": "Aboda Village",
+    "description": "Aboda Village is a location is Spirit Tracks. It is located by the southwestern shore of the Forest Realm. It is Link's hometown and the starting point of his journey.  ",
+    "id": "5f6e8c8e677b262b8b3fb4a9"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Ancient Tree Stump",
+    "description": "The Ancient Tree Stump is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4ab"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2cf"
+    ],
+    "inhabitants": [],
+    "name": "Abandoned Fort",
+    "description": "The Abandoned Fort is a Keep in Hyrule Warriors. ",
+    "id": "5f6e8c8e677b262b8b3fb4ac"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d63bc"
+    ],
+    "name": "Abandoned North Mine",
+    "description": "The Abandoned North Mine is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4aa"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Ancient Shrine",
+    "description": "Ancient Shrines are dungeon-like puzzles in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4ae"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Daqo Chisay Shrine",
+    "description": "The Daqo Chisay Shrine, designated by the Trial name The Whole Picture, is an Ancient Shrine in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4ad"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Ancient Columns",
+    "description": "The Ancient Columns are a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4af"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Darb Pond",
+    "description": "Darb Pond is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4b0"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Damel Forest",
+    "description": "The Damel Forest is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4b4"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b9"
+    ],
+    "inhabitants": [],
+    "name": "Zora Seas",
+    "description": "The Zora Seas constitute a vast sea in the land of Labrynna in Oracle of Ages. As the name suggests, the Zora Seas are home to the Zoras . The Zora Seas are found to the west of the Sea of Storms, from whence the water flows. To the north is the South Shore and the Fairies' Woods. The only noticeable landmark of the Zora Seas is the Eyeglass Island Library. ",
+    "id": "5f6e8c8e677b262b8b3fb4b9"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6"
+    ],
+    "inhabitants": [],
+    "name": "Hyrule Underground",
+    "description": "The Hyrule Underground is a location in The Minish Cap. ",
+    "id": "5f6e8c8e677b262b8b3fb4be"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Dalite Forest",
+    "description": "Dalite Forestis a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4b5"
+  },
+  {
+    "appearances": [],
+    "inhabitants": [],
+    "name": "Page 12",
+    "description": "Page 12 is a location in Ripened Tingle's Balloon Trip of Love. ",
+    "id": "5f6e8c8e677b262b8b3fb4c3"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c8"
+    ],
+    "inhabitants": [],
+    "name": "Ancient Harbor",
+    "description": "The Ancient Harbor is a location in Skyward Sword. It is an ancient port which linked the land of Lanayru Desert to the ancient ocean, now known as the Lanayru Sand Sea. ",
+    "id": "5f6e8c8e677b262b8b3fb4b1"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Daqa Koh Shrine",
+    "description": "The Daqa Koh Shrine, designated by the Trial name Stalled Flight, is an Ancient Shrine in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4b2"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b7",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bd",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b8",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ba",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bc",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c4",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c1",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c5",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c8",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c7",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Hyrule",
+    "description": "The Kingdom of Hyrule, also simply known as Hyrule, the Land of the Gods, the Lesser Kingdom of Hyrule, the Surface, and Hyrule Kingdom, is the name of the kingdom that serves as the iconic setting for a majority of the games in the Zelda series. It is usually depicted as a beautiful and prosperous land blessed with deep forests, tall mountains, vast lakes, a barren desert, great cities, villages, and many ancient temples hidden throughout. ",
+    "id": "5f6e8c8e677b262b8b3fb4b8"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Pondo",
+    "description": "Pondo is a character in Breath of the Wild.  ",
+    "id": "5f6e8c8e677b262b8b3fb4c8"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2ba",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be",
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d675b",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d6639",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d6437",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d62b7"
+    ],
+    "name": "Zora River",
+    "description": "Zora River, also known as Zora's River, is a recurring location in the The Legend of Zelda series. It is one of the main bodies of water in Hyrule, with its water source being either Zora's Domain or Zora's Fountain. ",
+    "id": "5f6e8c8e677b262b8b3fb4b7"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Dako Tah Shrine",
+    "description": "The Dako Tah Shrine, designated by the Trial name Electric Path, is an Ancient Shrine in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4b6"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2d3"
+    ],
+    "inhabitants": [
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d64f9"
+    ],
+    "name": "Reesong Palace",
+    "description": "Reesong Palace  is a location in The Wand of Gamelon. It the game's final stage and is unlocked after completing Shutoy Lake. ",
+    "id": "5f6e8c8e677b262b8b3fb4cd"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6"
+    ],
+    "inhabitants": [],
+    "name": "Hyrule Town Well",
+    "description": "The Hyrule Town Well is a location in The Minish Cap. ",
+    "id": "5f6e8c8e677b262b8b3fb4bb"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c7"
+    ],
+    "inhabitants": [],
+    "name": "Dark Ruins",
+    "description": "The Dark Ruins is a location in A Link Between Worlds. ",
+    "id": "5f6e8c8e677b262b8b3fb4bc"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c6"
+    ],
+    "inhabitants": [
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d6755",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d6714",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d63a9",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d62ba"
+    ],
+    "name": "Hyrule Town Square",
+    "description": "Hyrule Town Square is a location in The Minish Cap. ",
+    "id": "5f6e8c8e677b262b8b3fb4bd"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c0"
+    ],
+    "inhabitants": [],
+    "name": "Dance Hall",
+    "description": "The Dance Hall is a location in Oracle of Seasons. ",
+    "id": "5f6e8c8e677b262b8b3fb4b3"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be"
+    ],
+    "inhabitants": [],
+    "name": "Ordon Woods",
+    "description": "Ordon Woods is a location in Twilight Princess. ",
+    "id": "5f6e8c8e677b262b8b3fb4c0"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be"
+    ],
+    "inhabitants": [],
+    "name": "Ordon Spring",
+    "description": "Ordon Spring, also known as the Forest Spring, is a location in Twilight Princess. It is situated in the Ordon Woods and serves as the home of Ordona, the first Spirit of Light. ",
+    "id": "5f6e8c8e677b262b8b3fb4c2"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2be"
+    ],
+    "inhabitants": [],
+    "name": "Ordon Village",
+    "description": "Ordon Village is a recurring location in The Legend of Zelda series. It is a simple village and Link's hometown located in southern Hyrule, just south of the Faron Woods. Its existence largely depends upon agriculture and ranching. It is here that Link's adventure to save Hyrule begins and is where he was brought up as a ranch-hand prior to the events of the game. A chance encounter with King Bulblin and his Bulblin subordinates sends the young hero on a quest that would begin with the rescue of his friends and ultimately expand to saving all of Hyrule. ",
+    "id": "5f6e8c8e677b262b8b3fb4c1"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2d2"
+    ],
+    "inhabitants": [],
+    "name": "River Source Pond",
+    "description": "The River Source Pond is a location in the Plain of Andor in Zelda's Adventure. It is the source of the river that flows through the northern plain. ",
+    "id": "5f6e8c8e677b262b8b3fb4d2"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2bf"
+    ],
+    "inhabitants": [],
+    "name": "Zunari",
+    "description": "Zunari is a character in The Wind Waker. ",
+    "id": "5f6e8c8e677b262b8b3fb4ba"
+  },
+  {
+    "appearances": [],
+    "inhabitants": [],
+    "name": "Page 11",
+    "description": "Page 11 is a location in Ripened Tingle's Balloon Trip of Love. ",
+    "id": "5f6e8c8e677b262b8b3fb4c5"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Sahasra Slope",
+    "description": "Sahasra Slope is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4d7"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Passeri Greenbelt",
+    "description": "The Passeri Greenbelt is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4c7"
+  },
+  {
+    "appearances": [],
+    "inhabitants": [],
+    "name": "Page 1",
+    "description": "Page 1 is a location in Ripened Tingle's Balloon Trip of Love. ",
+    "id": "5f6e8c8e677b262b8b3fb4c6"
+  },
+  {
+    "appearances": [],
+    "inhabitants": [],
+    "name": "Page 13",
+    "description": "Page 13 is a location in Ripened Tingle's Balloon Trip of Love. ",
+    "id": "5f6e8c8e677b262b8b3fb4bf"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Ree Dahee Shrine",
+    "description": "The Ree Dahee Shrine, designated by the Trial name Timing Is Critical, is an Ancient Shrine in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4ca"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Regencia River",
+    "description": "Regencia River is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4cc"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Tabantha Tundra",
+    "description": "The Tabantha Tundra is a sublocation of Hebra in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4dc"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Popla Foothills",
+    "description": "The Popla Foothills are a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4cb"
+  },
+  {
+    "appearances": [],
+    "inhabitants": [],
+    "name": "Page 10",
+    "description": "Page 10 is a location in Ripened Tingle's Balloon Trip of Love. ",
+    "id": "5f6e8c8e677b262b8b3fb4c4"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Rebonae Bridge",
+    "description": "Rebonae Bridge is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4cf"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Rutala Dam",
+    "description": "Rutala Dam is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4d1"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Tabantha Bridge Stable",
+    "description": "Tabantha Bridge Stable is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4e1"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Sah Dahaj Shrine",
+    "description": "The Sah Dahaj Shrine, designated by the Trial name Power of Fire, is an Ancient Shrine in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4d0"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b9"
+    ],
+    "inhabitants": [],
+    "name": "Symmetry City",
+    "description": "Symmetry City is a location in Oracle of Ages. ",
+    "id": "5f6e8c8e677b262b8b3fb4e6"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Royal Ancient Lab Ruins",
+    "description": "The Royal Ancient Lab Ruins are a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4d4"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2cd"
+    ],
+    "inhabitants": [],
+    "name": "Sailing ship",
+    "description": "The Sailing Ship is a location in Freshly-Picked Tingle's Rosy Rupeeland. ",
+    "id": "5f6e8c8e677b262b8b3fb4d6"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2b8"
+    ],
+    "inhabitants": [
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d65b1"
+    ],
+    "name": "Pond of Happiness",
+    "description": "The Pond of Happiness, also known as the Wishing Well, is a Fairy Fountain in A Link to the Past. ",
+    "id": "5f6e8c8e677b262b8b3fb4c9"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2c9"
+    ],
+    "inhabitants": [],
+    "name": "Rutala River",
+    "description": "Rutala River is a location in Breath of the Wild. ",
+    "id": "5f6e8c8e677b262b8b3fb4d5"
+  },
+  {
+    "appearances": [
+      "https://zelda.fanapis.com/api/games/5f6ce9d805615a85623ec2d3"
+    ],
+    "inhabitants": [
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d643e",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d61d4",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d65fb",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d6599",
+      "https://zelda.fanapis.com/api/characters/5f6d186f246bd9a0809d640a"
+    ],
+    "name": "Sakado",
+    "description": "Sakado  is a location in The Wand of Gamelon. Along with Aru Ainu and Kobitan, it is one of the game's starting stages. ",
+    "id": "5f6e8c8e677b262b8b3fb4db"
+  }
+]
