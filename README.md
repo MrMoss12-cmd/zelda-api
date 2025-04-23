@@ -2,12 +2,6 @@
 
 A comprehensive GraphQL API for The Legend of Zelda universe data, built with NestJS and MongoDB.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-
 ## Features
 
 - Complete Zelda universe data including:
